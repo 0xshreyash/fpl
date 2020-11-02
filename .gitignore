@@ -1,0 +1,4 @@
+venv/
+.idea/
+data/
+scripts/.ipynb_checkpoints/
